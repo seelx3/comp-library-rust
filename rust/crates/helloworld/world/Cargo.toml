@@ -1,8 +1,0 @@
-[package]
-name = "verification-helper-rust-example-world"
-version = "0.0.0"
-edition = "2018"
-publish = false
-
-[lib]
-name = "world"
